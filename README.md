@@ -1,4 +1,4 @@
-#Customer Billing System# 
+# __Customer Billing System__ #
 
 A project which designs a simple, easy to use, efficient Customer Billing System.
 
